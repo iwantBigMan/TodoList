@@ -22,7 +22,7 @@ class AddTodoActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         db = AppDatabase.getInstance(this)!!
-        toDoDao = db.getTodoDad()
+        toDoDao = db.getTodoDao()
 
         binding.btnCompletion.setOnClickListener {
             insertTodo()
