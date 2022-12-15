@@ -7,4 +7,8 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <!-- 아이템 컬러 -->
+    <color name="yellow">#FFEB3B</color>
+    <color name="red">#FF3729</color>
+    <color name="green">#10A806</color>
 </resources>
