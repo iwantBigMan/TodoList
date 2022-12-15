@@ -8,5 +8,7 @@
 * OS : macOS
 * 개발 툴 : Android Studio
 * 개발 언어 : Kotlin
-## 진행상황
-* Entity, Dao, Database 의 일정을 추가하는 기능 구현까지 완료
+## 기능 사항
+* 리사이클러뷰로 리스트 구현 (LinearLayOutManager)
+* Room 라이브러리를 이용해 entity(DB 테이블)을 생성해 데이터 가져오기, 추가, 삭제 기능 구현
+* 어댑터를 이용해 아이템 뷰를 생성 후 데이터를 뷰와 바인딩
